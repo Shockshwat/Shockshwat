@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Shockshwat?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shockshwat?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/Shockshwat/your-repo" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/issues/Shockshwat/your-repo" alt="Issues" />
+  <img src="https://img.shields.io/github/issues-pr/Shockshwat/your-repo" alt="Pull Requests" />
+</p>
+
 # Welcome to my Groovy GitHub Profile! 🎉
 
 ## Hey there! I'm Shockshwat! 👋
@@ -22,16 +30,6 @@ I'm passionate about coding and open-source contributions. Here's a bit about me
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shockshwat&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## Dynamic Badges 🎉
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Shockshwat?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Shockshwat?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/Shockshwat/your-repo" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/issues/Shockshwat/your-repo" alt="Issues" />
-  <img src="https://img.shields.io/github/issues-pr/Shockshwat/your-repo" alt="Pull Requests" />
 </p>
 
 ## Connect with me 🌐
